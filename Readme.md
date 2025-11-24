@@ -61,34 +61,34 @@ Listing 2 – Exécution du programme Java
 
 
 L’interface du jeu ici :
-```
+
 ![Alt Text](https://github.com/Yasir-Manjra/Jeu_echec/blob/main/IMG/Figure1.PNG?raw=true)
-```
+
 Figure 1– Interface du jeu
 
 
 Nous commençons en tant que blanc (tour des blancs, ici car j’ai choisi le nom blanc/noir au
 début de la partie). Imaginons que nous prenons la pièce en (1,1) et la déplaçons en (1,3).
-```
+
 ![Alt Text](https://github.com/Yasir-Manjra/Jeu_echec/blob/main/IMG/Figure2.PNG?raw=true)
-```
+
 Figure 2– Déplacement du pion blanc
 
-```
+
 ![Alt Text](https://github.com/Yasir-Manjra/Jeu_echec/blob/main/IMG/Figure3.PNG?raw=true)
-```
+
 Figure 3– Position après déplacement
 
 Déplaçons maintenant le pion noir :
-```
+
 ![Alt Text](https://github.com/Yasir-Manjra/Jeu_echec/blob/main/IMG/Figure4.PNG?raw=true)
-```
+
 Figure 4– Déplacement du pion noir
 
 Maintenant, le pion blanc peut capturer le pion noir :
-```
+
 ![Alt Text](https://github.com/Yasir-Manjra/Jeu_echec/blob/main/IMG/Figure5.PNG?raw=true)
-```
+
 Figure 5– Capture du pion noir par le pion blanc
 ## 5 Le projet
 
