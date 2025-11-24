@@ -1,0 +1,25 @@
+public class Joueur {
+    private String nom;
+    private String couleur;
+
+    public Joueur(String nom, String couleur) {
+        this.nom = nom;
+        this.couleur = couleur.toLowerCase();
+    }
+
+    public String getNom() {
+        return nom;
+    }
+
+    public String getCouleur() {
+        return couleur;
+    }
+
+    public boolean estMonTour(String pieceCouleur) {
+        return this.couleur.equals(pieceCouleur);
+    }
+
+    public String toString() {
+        return nom + " (" + couleur + ")";
+    }
+}
