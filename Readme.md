@@ -55,7 +55,7 @@ Listing 1 – Compilation des fichiers Java
 ```
 ### Exécution
 
-1 java TestChess
+1 java Partie
 
 ```
 Listing 2 – Exécution du programme Java
